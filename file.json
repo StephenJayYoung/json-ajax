@@ -1,6 +1,6 @@
 {
     "glossary": {
-        "title": "example glossary",
+        "title": "example glossary stuff",
 		"GlossDiv": {
             "title": "S",
 			"GlossList": {
@@ -20,4 +20,3 @@
         }
     }
 }
-
